@@ -1,1 +1,5 @@
-scikit-learn
+import streamlit as st
+import pandas as pd
+import yfinance as yf
+from sklearn import *  # Import all submodules from scikit-learn
+import matplotlib.pyplot as plt
